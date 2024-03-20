@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Makode</h1>
-<h3 align="center">A Computer Science Graduate from India passionate about software development</h3>
+<h3 align="center">A Computer Engineering Graduate from India passionate about software development</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
